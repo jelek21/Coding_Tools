@@ -14,4 +14,4 @@ UNIX Text editors:
 Win Text editors:
 	*Notepad++
 
-
+You will also find my .gitconfig file that is located in your /home/username folder
