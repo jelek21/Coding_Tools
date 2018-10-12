@@ -1,0 +1,15 @@
+[user]
+	email = j.lekieffre@cranfield.ac.uk
+	name = jelek21
+
+#adds color to the UI
+[color]
+	ui = auto
+
+#allows to have shortcuts to use git more efficiently
+[alias]
+	ct = commit
+	di = diff
+	st = status
+	co = checkout
+	
