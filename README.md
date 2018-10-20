@@ -1,5 +1,5 @@
-# Cpp-Projects
-All my common C++ projects
+# Coding_tools
+All the tools i use and their configuration
 
 In this repository you will find my different IDEs and text editors configuration files.
 IDEs:
@@ -7,8 +7,8 @@ IDEs:
 * Clion
 
 UNIX Text editors:
-* Vi
-* nano
+* Vim
+* Emacs
 * SublimeText
 
 Win Text editors:
