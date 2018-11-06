@@ -6,7 +6,7 @@ In this repository you will find my different IDEs and text editors configuratio
 
 ### IDEs:
   * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community)
-     -[Github addon](https://visualstudio.github.com/)
+    - [Github addon](https://visualstudio.github.com/)
   * [Clion](https://www.jetbrains.com/clion/)
 
 ### UNIX Text editors:
