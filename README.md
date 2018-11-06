@@ -16,6 +16,8 @@ In this repository you will find my different IDEs and text editors configuratio
 
 ### Win Text editors:
   * [Notepad++](https://notepad-plus-plus.org/)
+      - [Compare plugin](https://sourceforge.net/projects/npp-compare/) Allows to compare two files like WinMerge.
+      - [Converter plugin](https://github.com/npp-plugins/converter) Allows to convert some ASCII in HEX and reverse.
 
 You will also find my [.gitconfig](https://github.com/jelek21/Coding_Tools/blob/master/.gitconfig) file that is located in your /home/username folder under Linux.
 
