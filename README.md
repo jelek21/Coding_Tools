@@ -31,6 +31,6 @@ As I often use the WSL and powershell, I installed [ConEmu](https://conemu.githu
 ### Some Daily tools
 
   * [WinMerge](http://winmerge.org/?lang=fr) A very usefull tool allowing to compare two files and to merge those files.
-  * [WinSCP](https://winscp.net/eng/index.php) An FTP tool supporting SFTP(FTP under SSH) in its cool features it can collect sessions saved under PuTTy.
+  * [WinSCP](https://winscp.net/eng/index.php) An FTP tool supporting SFTP(FTP under SSH), in its cool features it can collect sessions saved under PuTTy.
   * [PuTTy](https://www.putty.org/) A very complete SSH client for windows, it also support Serial communication, Telnet, rlogin and TCP.
-  * [gnuplot](http://www.gnuplot.info/) A cool tool, it can read avery text file containing column of datas and plot it into a very clean graph, it needs a bit of work to learn how to use it but [here](https://people.duke.edu/~hpgavin/gnuplot.html) is a cool tutorial.
+  * [gnuplot](http://www.gnuplot.info/) A cool tool, it can read every text file containing column of datas and plot it into a very clean graph, it needs a bit of work to learn how to use it but [here](https://people.duke.edu/~hpgavin/gnuplot.html) is a cool tutorial.
