@@ -1,6 +1,6 @@
 # Coding tools
 
-##All the tools I use and their configuration.
+## All the tools I use and their configuration.
 
 In this repository you will find my different IDEs and text editors configuration files.
 
