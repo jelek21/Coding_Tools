@@ -1,7 +1,0 @@
-#Usefull Notepad++ tools
-Here is a list of the notepad++ add-ons i installed, those are some usefull tools to me
-it is as it is, you probably have some other very usefull tools and i'd love to here so.
-
-* compare
-
-* converter
