@@ -79,7 +79,7 @@ So here is a list of all the plugins installed on my ST3 setup
 *  [LaTeXTools](https://packagecontrol.io/packages/LaTeXTools) Latex Syntax and builds
 *  [La​Te​X Word Count](https://packagecontrol.io/packages/LaTeX%20Word%20Count) WordCount for your Latex documents
 *  [La​Te​X Snippets](https://packagecontrol.io/packages/LaTeX%20Snippets) Snippets for Latex
-*  [Cite​Bibtex](https://packagecontrol.io/packages/CiteBibtex) 
+*  [Cite​Bibtex](https://packagecontrol.io/packages/CiteBibtex) A Sublime Text plugin to effortlessly insert citations from BibTeX into texts written in Pandoc or LaTeX.
 
 
 ### Markdown
