@@ -57,7 +57,7 @@ So here is a list of all the plugins installed on my ST3 setup
 ### C/C++
 *  [C Improved](https://packagecontrol.io/packages/C%20Improved): This package provides better support of C/C++/Objective-C languages. ([GitHub](https://github.com/abusalimov/SublimeCImproved/issues))
 *  [C++ Classhelper](https://packagecontrol.io/packages/C%2B%2B%20Classhelper): Plugin for creating/generating C++ Classes. ([GitHub](https://github.com/pr0grammr/cppclasshelper-sublime-text-plugin))
-*  [C++ Completions](https://packagecontrol.io/packages/C%2B%2B%20Completions) A bit old and definitely needs an update but it woks really well! ([GitHub](https://github.com/tushortz/CPP-Completions))
+*  [C++ Completions](https://packagecontrol.io/packages/C%2B%2B%20Completions): A bit old and definitely needs an update but it woks really well! ([GitHub](https://github.com/tushortz/CPP-Completions))
 *  [C++11](https://packagecontrol.io/packages/C%2B%2B11): Replacement self-contained C++11 syntax definition. ([GitHub](https://github.com/noct/sublime-cpp11))
 *  [Clang Format](https://packagecontrol.io/packages/Clang%20Format): Clang-format is a tool for formatting C++, built on [Clang LLVM](http://clang.llvm.org/). ([GitHub](https://github.com/rosshemsley/SublimeClangFormat))
 *  [CodeFormatter](https://packagecontrol.io/packages/CodeFormatter): Plugin that supports format (beautify) source code. ([GitHub](https://github.com/akalongman/sublimetext-codeformatter))
