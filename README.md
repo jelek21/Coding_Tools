@@ -2,7 +2,7 @@
 
 ## All the tools I use and their configuration.
 
-In this repository you will find my different IDEs and text editors configuration files.
+In this repository you will find my different IDEs and text editors, configuration files and development advices.
 
 ### IDEs: (I no longer use those as I totally replaced them with SublimeText)
   * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community)
