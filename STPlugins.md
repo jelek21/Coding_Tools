@@ -5,6 +5,7 @@ So here is a list of all the plugins installed on my ST3 setup
 *  [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon): Adds some pretty icons in your sidebar depending on the files types. ([GitHub](https://github.com/SublimeText/AFileIcon))
 *  [ColorSublime](https://packagecontrol.io/packages/Colorsublime): To change easily (and download easily) your themes. ([GitHub](https://github.com/Colorsublime/Colorsublime-Plugin))
 *  [Dracula Color Scheme](https://packagecontrol.io/packages/Dracula%20Color%20Scheme): Well known color scheme. ([Website](https://draculatheme.com/sublime))
+*  [Origami](https://packagecontrol.io/packages/Origami): Some key bindings for a better tabs organisation. ([GitHub](https://github.com/SublimeText/Origami))
 *  [Outline](https://packagecontrol.io/packages/Outline): Shows the outline of your document or class/function name list of your code in a sidebar-style tab. ([GitHub](https://github.com/warmdev/SublimeOutline))
 *  [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements): Add some functionalities to your sidebar right-click. ([GitHub](https://github.com/titoBouzout/SideBarEnhancements))
 *  [TabsExtra](https://packagecontrol.io/packages/TabsExtra): Add some functionalities to your tabs right-click. ([GitHub](https://github.com/facelessuser/TabsExtra))
@@ -60,6 +61,8 @@ So here is a list of all the plugins installed on my ST3 setup
 *  [C++ Completions](https://packagecontrol.io/packages/C%2B%2B%20Completions): A bit old and definitely needs an update but it woks really well! ([GitHub](https://github.com/tushortz/CPP-Completions))
 *  [C++11](https://packagecontrol.io/packages/C%2B%2B11): Replacement self-contained C++11 syntax definition. ([GitHub](https://github.com/noct/sublime-cpp11))
 *  [Clang Format](https://packagecontrol.io/packages/Clang%20Format): Clang-format is a tool for formatting C++, built on [Clang LLVM](http://clang.llvm.org/). ([GitHub](https://github.com/rosshemsley/SublimeClangFormat))
+*  [CMake](https://packagecontrol.io/packages/CMake): Some cool stuff to make your CMake usage easier. ([GitHub](https://github.com/zyxar/Sublime-CMakeLists))
+*  [CMakeEditor](https://packagecontrol.io/packages/CMakeEditor): A specific editor for CMake files. ([GitHub](https://github.com/thenewvu/SublimeCMakeEditor))
 *  [CodeFormatter](https://packagecontrol.io/packages/CodeFormatter): Plugin that supports format (beautify) source code. ([GitHub](https://github.com/akalongman/sublimetext-codeformatter))
 *  [CoolFormat](https://packagecontrol.io/packages/CoolFormat): CoolFormat Source Code Formatter is a code formatter for C\C++\C#\CSS \HTML\Java\JavaScript\JSON\Objective-C\PHP\SQL\XML files. ([GitHub](https://github.com/akof1314/Sublime-CoolFormat))
 *  [CPP Competitive Programming Snippets](https://packagecontrol.io/packages/CPP%20Competitive%20Programming%20Snippets): Sublime Snippets for improving the coding experience while doing competitive programming in C++. ([GitHub](https://github.com/MeghaSharma21/CPP_Competitive_Programming_Sublime_Snippets))
@@ -82,6 +85,9 @@ So here is a list of all the plugins installed on my ST3 setup
 
 ### Gnuplot Scripting
 *  [Gnuplot](https://packagecontrol.io/packages/Gnuplot): Gnuplot Package for Sublime Text ([GitHub](https://github.com/hesstobi/sublime_gnuplot))
+
+### INI
+*  [INI](https://packagecontrol.io/packages/INI): An INI file syntax highlighting. ([GitHub](https://github.com/clintberry/sublime-text-2-ini))
 
 ### LaTeX
 *  [La​Te​X Snippets](https://packagecontrol.io/packages/LaTeX%20Snippets): Snippets for Latex. ([GitHub](https://github.com/tknuth/latex-snippets))
