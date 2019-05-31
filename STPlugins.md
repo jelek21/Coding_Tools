@@ -1,5 +1,6 @@
 # SublimeText 3 Plugins that I use
-So here is a list of all the plugins installed on my ST3 setup
+So here is a list of all the plug-ins installed on my ST3 setup.
+I got a lot of them and do not use them on a daily basis, but every time I face a new language or a new situation where a plug-in might be useful, I give a look a [Packagecontrol.io](https://packagecontrol.io/) and if there is something interesting, I take it. I'll try to keep this list up to date and add new packages when I install some new once.
 
 ## UI
 *  [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon): Adds some pretty icons in your sidebar depending on the files types. ([GitHub](https://github.com/SublimeText/AFileIcon))
