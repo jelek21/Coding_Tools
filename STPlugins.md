@@ -4,6 +4,7 @@ I got a lot of them and do not use them on a daily basis, but every time I face 
 
 ## UI
 *  [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon): Adds some pretty icons in your sidebar depending on the files types. ([GitHub](https://github.com/SublimeText/AFileIcon))
+*  [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Your brackets magically appears near the line number, no need to count the opening and closing brackets, you will directly see which one is not closed. ([GitHub](https://github.com/facelessuser/BracketHighlighter))
 *  [ColorSublime](https://packagecontrol.io/packages/Colorsublime): To change easily (and download easily) your themes. ([GitHub](https://github.com/Colorsublime/Colorsublime-Plugin))
 *  [Dracula Color Scheme](https://packagecontrol.io/packages/Dracula%20Color%20Scheme): Well known color scheme. ([Website](https://draculatheme.com/sublime))
 *  [Origami](https://packagecontrol.io/packages/Origami): Some key bindings for a better tabs organisation. ([GitHub](https://github.com/SublimeText/Origami))
@@ -48,7 +49,6 @@ I got a lot of them and do not use them on a daily basis, but every time I face 
 *  [Alignment](https://packagecontrol.io/packages/Alignment): A simple key-binding for aligning multi-line and multiple selections. ([GitHub](https://github.com/wbond/sublime_alignment))
 *  [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete): Extends the default autocomplete to find matches in all open files. ([GitHub](https://github.com/alienhard/SublimeAllAutocomplete))
 *  [AutoImport](https://packagecontrol.io/packages/AutoImport): Manages often-encountered keywords like “import”, “use” etc. By default, only for Python and Php (Part of [Sublime-Enhanced](https://github.com/shagabutdinov/sublime-enhanced))
-*  [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter): Your brackets magically appears near the line number, no need to count the opening and closing brackets, you will directly see which one is not closed. ([GitHub](https://github.com/facelessuser/BracketHighlighter))
 *  [Context](https://packagecontrol.io/packages/Context): Allows to check the context of the code you are writing (Part of [Sublime-Enhanced](https://github.com/shagabutdinov/sublime-enhanced))
 *  [GotoDocumentation](https://packagecontrol.io/packages/GotoDocumentation): Adds a “Go to Documentation” function in the right-click. ([GitHub](https://github.com/kemayo/sublime-text-2-goto-documentation))
 *  [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter): THE code linting framework (needed for every linters I use). ([Website](http://sublimelinter.com/))
