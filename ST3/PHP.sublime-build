@@ -1,0 +1,9 @@
+// Build System for PHP
+{
+	// Command executed (the comma between two double quoted words work as a space)
+	"cmd": ["php", "$file"],
+	// Make this build system as default fo .php files
+	"selector": "source.php",
+	// Setup Working directory
+	"working_dir" : "$file_path"
+}

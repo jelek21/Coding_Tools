@@ -1,0 +1,7 @@
+// You obviously need make to be installed on your workstation...
+{
+	// Command executed (the comma between two double quoted words work as a space)
+	"shell_cmd": "make",
+	// Setup Working directory
+	"working_dir" : "$file_path"
+}

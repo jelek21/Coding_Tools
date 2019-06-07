@@ -1,0 +1,11 @@
+// gcc Build system, needs gcc to be installed on your system
+{
+	// Command executed (the comma between two double quoted words work as a space)
+	"shell_cmd": ["gcc", "$file_name", "-o", "RunMe.exe"],
+	// Hide the shell returns (might not be a good idea depending on your confidence in your coding skills)
+	"shell":false,
+	// Setup the working directory
+	"working_dir" : "$file_path",
+	// Files extensions for which this build system is the default one.
+	"selector": ["source.c", "source.cpp"]
+}

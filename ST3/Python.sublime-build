@@ -1,0 +1,9 @@
+// Python Build system
+{
+	// For Python sources
+    "selector": "source.python",
+    // Run the following command (comma between quoted words act as a space.)
+    "cmd": ["python", "-u", "$file"],
+	// Setup Working directory
+	"working_dir" : "$file_path"
+}

@@ -19,21 +19,21 @@ In this repository you will find my different IDEs and text editors, configurati
       - [Compare plugin](https://sourceforge.net/projects/npp-compare/) Allows comparing two files like WinMerge.
       - [Converter plugin](https://github.com/npp-plugins/converter) Allows to convert some ASCII in HEX and reverse.
   * [SublimeText](https://www.sublimetext.com/) I prefer ST to Notepad++ because it has way more plugins, a nicer look and allows you to make many more things easier!
-  You will find a list of the plugins I use on my ST3 setup [here](https://github.com/jelek21/Coding_Tools/blob/master/STPlugins.md)
+  You will find a list of the plugins I use on my ST3 setup [here](https://github.com/jelek21/Coding_Tools/blob/master/ST3/STPlugins.md) and a list of config files [here](https://github.com/jelek21/Coding_Tools/blob/master/ST3/ST3Setup.md)
 
-You will also find my [.gitconfig](https://github.com/jelek21/Coding_Tools/blob/master/.gitconfig) file that is located in your /home/username folder under Linux.
+  You will also find my [.gitconfig](https://github.com/jelek21/Coding_Tools/blob/master/.gitconfig) file that is located in your /home/username folder under Linux.
 
-For coding tools and Tips, there is a cool document in [scrassmussen/tools](https://github.com/scrasmussen/tools) repository.
-Go check it out it is really well written and there are some cool tips and tools for programming.
+  For coding tools and Tips, there is a cool document in [scrassmussen/tools](https://github.com/scrasmussen/tools) repository.
+  Go check it out it is really well written and there are some cool tips and tools for programming.
 
 ### Documenting code
   For documentation, I actually use [Doxygen](http://www.doxygen.org/). As I always work with other people and often have to give out my code to other devs, I pay a huge attention to document as well as possible my code, I strongly advise you to do so, not only it helps other devs, but when I get back on my own code I save a lot of time!
 
 ### Linux under Windows : I like WSL!
-I often use Linux to work, even if I am locked on a Windows computer, since Win10, there is the [Windows Subsystem for Linux(WSL)](https://docs.microsoft.com/en-us/windows/wsl/about) that allows you to run a Bash terminal under Windows 10.
-I personally like to work with [Arch WSL](https://github.com/yuk7/ArchWSL) as Archlinux has some of the most up-to-date repositories, allowing me to always work with the latest versions of my software.
+  I often use Linux to work, even if I am locked on a Windows computer, since Win10, there is the [Windows Subsystem for Linux(WSL)](https://docs.microsoft.com/en-us/windows/wsl/about) that allows you to run a Bash terminal under Windows 10.
+  I personally like to work with [Arch WSL](https://github.com/yuk7/ArchWSL) as Archlinux has some of the most up-to-date repositories, allowing me to always work with the latest versions of my software.
 
-As I often use the WSL and powershell, I installed [Terminus](https://eugeny.github.io/terminus/) on my computers, it is a tool allowing you to emulate a terminal with the specifications and customisation you want to have, it is a pretty and simple to use tool and it changes your life. If you are more on the light size and want something also well customizable, you shall try [alacritty](https://github.com/jwilm/alacritty).
+  As I often use the WSL and powershell, I installed [Terminus](https://eugeny.github.io/terminus/) on my computers, it is a tool allowing you to emulate a terminal with the specifications and customisation you want to have, it is a pretty and simple to use tool and it changes your life. If you are more on the light size and want something also well customizable, you shall try [alacritty](https://github.com/jwilm/alacritty).
 
 ### Some Daily tools
   * [WinMerge](http://winmerge.org/?lang=fr) A very useful tool allowing comparing two files and to merge those files.

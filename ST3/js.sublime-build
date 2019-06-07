@@ -1,0 +1,13 @@
+// Build System for Javascript (need nodejs to be installed)
+{
+	// Command executed (the comma between two double quoted words work as a space)
+    "cmd": ["node", "$file"],
+    // Make this build system as default fo .js files
+    "selector": "source.js",
+    // Make sure your path contains a link to the right binary folder
+    "path": "$PATH:/usr/local/bin/",
+    // Specific path for windows
+    "windows": {
+    	"path": "$PATH:C:/nodejs"
+    }
+}
