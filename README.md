@@ -19,7 +19,7 @@ In this repository you will find my different IDEs and text editors, configurati
       - [Compare plugin](https://sourceforge.net/projects/npp-compare/) Allows comparing two files like WinMerge.
       - [Converter plugin](https://github.com/npp-plugins/converter) Allows to convert some ASCII in HEX and reverse.
   * [SublimeText](https://www.sublimetext.com/) I prefer ST to Notepad++ because it has way more plugins, a nicer look and allows you to make many more things easier!
-  You will find a list of the plugins I use on my ST3 setup [here](https://github.com/jelek21/Coding_Tools/blob/master/ST3/STPlugins.md) and a list of config files [here](https://github.com/jelek21/Coding_Tools/blob/master/ST3/ST3Setup.md)
+  You will find a list of the plugins I use on my ST3 setup [here](https://github.com/jelek21/Coding_Tools/blob/master/ST3/STPlugins.md) and a list of config files [there](https://github.com/jelek21/Coding_Tools/blob/master/ST3/ST3Setup.md)
 
   You will also find my [.gitconfig](https://github.com/jelek21/Coding_Tools/blob/master/.gitconfig) file that is located in your /home/username folder under Linux.
 
