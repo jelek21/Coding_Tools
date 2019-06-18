@@ -26,6 +26,7 @@ I got a lot of them and do not use them on a daily basis, but every time I face 
 *  [AutoFileName](https://packagecontrol.io/packages/AutoFileName): Filename auto completion. ([GitHub](https://github.com/BoundInCode/AutoFileName))
 *  [BeyondCompare](https://packagecontrol.io/packages/BeyondCompare): File comparison using [BeyondCompare](https://www.scootersoftware.com/) software. ([GitHub](https://github.com/npadley/BeyondCompare))
 *  [Clickable URLs](https://packagecontrol.io/packages/Clickable%20URLs): Everything is in the name. ([GitHub](https://github.com/leonid-shevtsov/ClickableUrls_SublimeText))
+*   [Environment Settings](https://packagecontrol.io/packages/Environment%20Settings): Allows you to setup specific environment variable for your project. ([Website](https://bitbucket.org/daniele-niero/environmentsettings))
 *  [Expression](https://packagecontrol.io/packages/Expression): Framework for other [Sublime-Enhanced](https://github.com/shagabutdinov/sublime-enhanced) plugin. 
 *  [FileList](https://packagecontrol.io/packages/FileList): It provides a "Rename File" functionality and enhanced the file opening system. (Part of [Sublime-Enhanced](https://github.com/shagabutdinov/sublime-enhanced)) ([GitHub](https://github.com/shagabutdinov/sublime-file-list))
 *  [FilterPipes](https://packagecontrol.io/packages/FilterPipes): Allows filtering selected lines/text. (reorder lines of your file by alphabet for example) ([GitHub](https://github.com/tylerl/FilterPipes))
