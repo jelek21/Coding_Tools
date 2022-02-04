@@ -4,22 +4,21 @@
 
 In this repository you will find my different IDEs and text editors, configuration files and development advises.
 
-### IDEs: (I no longer use those as I totally replaced them with SublimeText)
-  * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community)
-    - [GitHub addon](https://visualstudio.github.com/)
-  * [Clion](https://www.jetbrains.com/clion/)
+### IDEs: (I no longer use those as I totally replaced them with Vim)
+  * [Visual Studio code](https://code.visualstudio.com/)
+  * [Android Studio](https://developer.android.com/studio)
 
 ### UNIX Text editors:
   * [Vim](https://github.com/vim/vim)
   * [Emacs](https://www.gnu.org/software/emacs/)
-  * [SublimeText](https://www.sublimetext.com/)
 
 ### Win Text editors:
   * [Notepad++](https://notepad-plus-plus.org/)
       - [Compare plugin](https://sourceforge.net/projects/npp-compare/) Allows comparing two files like WinMerge.
       - [Converter plugin](https://github.com/npp-plugins/converter) Allows to convert some ASCII in HEX and reverse.
-  * [SublimeText](https://www.sublimetext.com/) I prefer ST to Notepad++ because it has way more plugins, a nicer look and allows you to make many more things easier!
-  You will find a list of the plugins I use on my ST3 setup [here](https://github.com/jelek21/Coding_Tools/blob/master/ST3/STPlugins.md) and a list of config files [there](https://github.com/jelek21/Coding_Tools/blob/master/ST3/ST3Setup.md)
+
+  You will find a list of the plugins I used on my old ST3 setup [here](https://github.com/jelek21/Coding_Tools/blob/master/ST3/STPlugins.md) and a list of config files [there](https://github.com/jelek21/Coding_Tools/blob/master/ST3/ST3Setup.md)
+  I stopped using ST because it is not free and open source, making it more difficult to use in a pro environment, also, I did eventually install way too much plugins, making it totally bloated... It has been a fun journey with it, but taking a little bit of training on vim is definitely worth it!
 
   You will also find my [.gitconfig](https://github.com/jelek21/Coding_Tools/blob/master/.gitconfig) file that is located in your /home/username folder under Linux.
 
@@ -29,7 +28,7 @@ In this repository you will find my different IDEs and text editors, configurati
 ### Documenting code
   For documentation, I actually use [Doxygen](http://www.doxygen.org/). As I always work with other people and often have to give out my code to other devs, I pay a huge attention to document as well as possible my code, I strongly advise you to do so, not only it helps other devs, but when I get back on my own code I save a lot of time!
 
-### Linux under Windows : I like WSL!
+### Linux under Windows : I like WSL2!
   I often use Linux to work, even if I am locked on a Windows computer, since Win10, there is the [Windows Subsystem for Linux(WSL)](https://docs.microsoft.com/en-us/windows/wsl/about) that allows you to run a Bash terminal under Windows 10.
   I personally like to work with [Arch WSL](https://github.com/yuk7/ArchWSL) as Archlinux has some of the most up-to-date repositories, allowing me to always work with the latest versions of my software.
 
